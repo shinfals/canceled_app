@@ -31,8 +31,8 @@ def start_chrome():
 
 def login_google(driver):
     #ログイン情報
-    login_id = "c011701087@edu.teu.ac.jp"
-    login_pw = "@m67KWrcv"
+    login_id = "自身のid"
+    login_pw = "password"
 
     #最大待機時間（秒）
     wait_time = 30
